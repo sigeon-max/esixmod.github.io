@@ -5810,6 +5810,111 @@
         "rotationCenterY": 140
     },
     {
+        "name": "Esix-a",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/nmiray.svg"
+    },
+    {
+                "name": "Esix-b",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/9kza68.svg"
+    },
+    {
+                "name": "Esix-c",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/s5pp9p.svg"
+    },
+    {
+                "name": "Esix-d",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/r9o4xr.svg"
+    },
+    {
+                "name": "Esix-e",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/w3lv10.svg"
+    },
+    {
+                "name": "Esix-f",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/u50rd4.svg"
+    },
+    {
+                "name": "Esix-g",
+        "tags": [
+            "animals",
+            "character",
+            "new",
+            "blue-body"
+        ],
+        "bitmapResolution": 1,
+        "dataFormat": "svg",
+        "rotationCenterX": 0,
+        "rotationCenterY": 0,
+        "fromPenguinModLibrary": true,
+        "libraryFilePage": "https://files.catbox.moe/o2xhc6.svg"
+    },
+    {
         "name": "Ewo-a",
         "tags": [
             "turkey",
